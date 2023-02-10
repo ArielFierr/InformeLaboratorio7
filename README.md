@@ -68,9 +68,7 @@ O Hz
 
 CONCLUSIONES:
 
-* Conocer los nuevos elementos utilizados para el circuito a realizar. 
+* Al realizar el presente laboratorio se llega a la conclusión de la importancia de utilizar correctamente los simuladores en donde se nos indica se debe trabajar puesto a que se han encontrado inconvenientes al utilizar dcaclab por lo que realizar la simulación y comprobar los valores arrojados es importante. 
 
-* Aprender el manejo correcto del simulador en donde se realizara el laboratorio, asi como el manejo del osciloscopio. 
-
-* Estudiar el comportamiento de las bobinas AC asi como la grafica arrojada por el simulador.
+* Conocer el funcionamiento de los nuevos elementos implementados en el circuito tanto como el osilador y los capacitores es importante ya que esto nos ayudará al momento de tranajar en el simulador y realizar un circuito funcional y efectivo.
 
