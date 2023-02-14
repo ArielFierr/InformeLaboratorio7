@@ -104,10 +104,36 @@ VOLTAJE Y CORRIENTE
 1000 Hz
 ![image](https://user-images.githubusercontent.com/116833736/218778628-06a16756-919e-4dbd-bf20-e7e81c38e935.png)
 
+ANÁLISIS DE RESULTADOS
+
+* Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+![image](https://user-images.githubusercontent.com/116833736/218801720-5e667294-f05e-43bc-8ba8-5d35920dad14.png)
+
+PREGUNTAS:
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+
+Las bobinas conectadas a una corriente continua retienen el paso de electrones hasta que se almacena la energía en los campos magnéticos. El capacitor de corriente continua se comporta como circuito abierto, esto al estar en régimen permanente, al estar en régimen transitorio (conectando o desconectando un circuito con condensador) suceden fenómenos transitorios incidentes sobre la diferencia de potencial en bornes
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+Cuando se conecta una corriente alterna sinusoidal a una bobina aparecerá una corriente sinusoidal variable por que aparecerá una fuerza electromotriz inverza, y su valor absoluto indica que es igual al de v(t). Conectando una corriente alterna sinusoidal v a un capacitor fluirá la corriente i (sinusoidal igual) dicha corriente lo cargará provocando caída de tension -vct y su valor absoluto es igual al de v(t).
+
+3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Voltaje y la corriente dentro de los circuitos será diferente en cada bobina o capacitor dependiendo de cómo sea conectado porque los capacitores en serie se dividen y paralelos se suman, en vez de la bobina es la inversa en serie se suman y los paralelos. dividen.
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+El valor equivalente de corriente continua de una forma de onda de CA.
 
 CONCLUSIONES:
 
 * Al realizar el presente laboratorio se llega a la conclusión de la importancia de utilizar correctamente los simuladores en donde se nos indica se debe trabajar puesto a que se han encontrado inconvenientes al utilizar dcaclab por lo que realizar la simulación y comprobar los valores arrojados es importante. 
 
 * Conocer el funcionamiento de los nuevos elementos implementados en el circuito tanto como el osilador y los capacitores es importante ya que esto nos ayudará al momento de tranajar en el simulador y realizar un circuito funcional y efectivo.
+
+BIBLIOGRAFIA:
+
+_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson**
 
