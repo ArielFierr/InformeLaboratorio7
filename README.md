@@ -66,6 +66,45 @@ O Hz
 
 ![image](https://user-images.githubusercontent.com/116833736/218153473-5ccf9ea9-165b-41e0-8a3b-013e30380e31.png)
 
+0 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778439-ea28b261-aa05-4259-bff8-67046047f3c8.png)
+
+10 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778484-1cee5168-3069-4610-b267-6ddaa201a4a0.png)
+
+50 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778508-9f94a628-84a0-4707-9af4-265dd03dc72a.png)
+
+100 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778522-15aa2755-41d3-44ff-97c4-363de4760a43.png)
+
+500 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778550-ca93ff31-3909-48ed-9ab0-74fa920e311e.png)
+
+1000 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778582-a1ef036f-0d59-447a-b8e4-b65f5d98e705.png)
+
+VOLTAJE Y CORRIENTE 
+
+0 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778960-8b203b16-4e1d-47f2-9fa3-630b0a64b446.png)
+
+10 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778940-b29ff40c-0173-4b5b-b49e-eb25d0397e35.png)
+
+50 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778926-b5724acd-4378-47aa-be32-bbb89447aeb2.png)
+
+100 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778711-16c0d305-f2ed-4851-88fb-0f77d96fe32e.png)
+
+500 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778686-f1e53fc4-56bd-4376-abce-a82b75b5cb6f.png)
+
+1000 Hz
+![image](https://user-images.githubusercontent.com/116833736/218778628-06a16756-919e-4dbd-bf20-e7e81c38e935.png)
+
+
 CONCLUSIONES:
 
 * Al realizar el presente laboratorio se llega a la conclusión de la importancia de utilizar correctamente los simuladores en donde se nos indica se debe trabajar puesto a que se han encontrado inconvenientes al utilizar dcaclab por lo que realizar la simulación y comprobar los valores arrojados es importante. 
